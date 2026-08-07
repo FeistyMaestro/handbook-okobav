@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://FeistyMaestro.github.io/handbook-okobav/sitemap.xml
